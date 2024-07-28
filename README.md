@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## My name is Carter...
+## Hi there 👋 My name is Carter...
 
 - 🔭 I’m currently working on minecraft plugins
 - 🌱 I’m currently learning python
